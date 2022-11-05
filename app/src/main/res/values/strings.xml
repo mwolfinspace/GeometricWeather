@@ -3,7 +3,7 @@
 
     <!-- app. -->
     <string name="app_name">Weather</string>
-    <string name="geometric_weather">Geometric Weather</string>
+    <string name="geometric_weather" translatable="false">Geometric Weather</string>
 
     <!-- keyword. -->
     <string name="current_location">Current location</string>
